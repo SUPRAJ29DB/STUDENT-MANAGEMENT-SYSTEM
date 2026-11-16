@@ -1,0 +1,3 @@
+[console_scripts]
+student-demo = student_management.demo:main
+student-mgmt = student_management.cli:main

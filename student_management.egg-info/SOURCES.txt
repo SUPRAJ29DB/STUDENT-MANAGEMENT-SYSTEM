@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+./__init__.py
+./cli.py
+./demo.py
+./exceptions.py
+./manager.py
+./storage.py
+./student.py
+./test_student_mgmt.py
+student_management.egg-info/PKG-INFO
+student_management.egg-info/SOURCES.txt
+student_management.egg-info/dependency_links.txt
+student_management.egg-info/entry_points.txt
+student_management.egg-info/requires.txt
+student_management.egg-info/top_level.txt

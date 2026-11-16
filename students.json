@@ -1,0 +1,15 @@
+{
+  "6b3605fa-b4b5-4d36-a04f-c5dd907d9bd9": {
+    "id": "6b3605fa-b4b5-4d36-a04f-c5dd907d9bd9",
+    "first_name": "Suprakash",
+    "last_name": "Ghosh",
+    "email": "supra@email.com",
+    "date_of_birth": "2008-05-05",
+    "enrollment_date": "2024-11-10",
+    "grade": 4,
+    "major": "cse",
+    "gpa": 4.0,
+    "is_active": false,
+    "metadata": {}
+  }
+}
