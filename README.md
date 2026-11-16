@@ -171,7 +171,3 @@ Enrollment date (YYYY-MM-DD, Enter for today):
 ✅ Student added: Alice Johnson (a1b2c3d4)
    ID: a1b2c3d4-e5f6-7890-abcd-ef1234567890
 ```
-
-## License
-
-MIT
